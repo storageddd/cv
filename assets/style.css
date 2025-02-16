@@ -135,7 +135,7 @@ header {
 }
 
 main {
-  padding: 2rem;
+  padding: 2rem 4rem;
 
   section + section {
     margin-top: 2rem;
