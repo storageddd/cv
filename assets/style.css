@@ -188,6 +188,20 @@ main {
   }
 }
 
+@media screen and (max-width: 767px) {
+  header {
+    aside {
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+
+  main {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
 @media print {
   @page {
     size: A4 portrait;
